@@ -1,4 +1,4 @@
-# Codechef_Automation
+# Codechef_Automation #Hackathon_Project
 In this project i automate the codechef coding platform when i run this project then open chromium 
 browser do login  through the email id and password after click on login button and then click on 
 practice section and click on first problem and type the custom input box and copy this complete 
